@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-# Ignore CSS in GitHub language statistics
+# Ignore CSS and HTML in GitHub language statistics so JavaScript becomes primary
 *.css linguist-detectable=false
+*.html linguist-detectable=false
