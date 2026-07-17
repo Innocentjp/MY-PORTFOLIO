@@ -1,25 +1,19 @@
-*-----BANNER-----*
 <img src="./img/og.jpg" alt="Portfolio Banner" width="100%">
 
-*-----TITLE-----*
 # <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2358a6ff" width="28" height="28" align="center"> Innocent Ebisike - Personal Portfolio
 
 A creative portfolio showcasing my multidisciplinary work as a Frontend Developer and UI/UX Designer, bridging the gap between Web2 and Web3.
 
-*-----LIVE DEMO-----*
 **<img src="https://api.iconify.design/lucide:globe.svg?color=%2358a6ff" width="18" height="18" align="center"> Live Demo:** [View My Portfolio](https://innocentjp-portfolio.netlify.app)
 
-*-----ABOUT-----*
 ## <img src="https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff" width="22" height="22" align="center"> About This Project
 This repository contains the source code for my personal portfolio website. It serves as a central hub for my digital projects, ranging from interactive 2D games and 3D animations to highly functional websites and blockchain integrations.
 
-*-----TECH STACK-----*
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%2358a6ff" width="22" height="22" align="center"> Built With
 * **Frontend:** HTML5, CSS3, JavaScript, React.js
 * **Web3 & Game Dev:** Web3.js, Phaser.js, HTML5 Canvas
 * **Design Tools:** Figma, PixelLab, Blender
 
-*-----FEATURED PROJECTS-----*
 ## <img src="https://api.iconify.design/lucide:rocket.svg?color=%2358a6ff" width="22" height="22" align="center"> Featured Projects
 
 * **[Enugu WaterWatch (EWAW)](https://enugu-waterwatch.netlify.app):** A digital utility platform designed for Enugu State to track public water infrastructure in real-time, report faulty boreholes, and coordinate Smart Tanker Pooling securely. *(Built with: React.js, JavaScript (ES6+), Leaflet.js, CartoDB Voyager, Tailwind CSS)*
@@ -42,8 +36,10 @@ This repository contains the source code for my personal portfolio website. It s
 
 * **[Physiology Academic Quiz](https://physiology-quiz.netlify.app/):** An interactive educational platform tailored for medical rehabilitation students to rigorously test their knowledge of vital signs and exercise physiology. *(Built with: JavaScript, HTML5, CSS3)*
 
-/*-----CONTACT-----*/
-## <img src="https://api.iconify.design/lucide:mail.svg?color=%2358a6ff" width="22" height="22" align="center"> Contact
-* **Email:** innocentebisike73@gmail.com
-* **GitHub:** [@Innocentjp](https://github.com/Innocentjp)
-* **Twitter (X):** [@EbisikeInnocent](https://twitter.com/EbisikeInnocent)
+## <img src="https://api.iconify.design/lucide:mail.svg?color=%2358a6ff" width="22" height="22" align="center">
+
+* <img src="https://api.iconify.design/lucide:mail.svg?color=%2358a6ff" width="18" height="18" align="center"> **Email:** [innocentebisike73@gmail.com](mailto:innocentebisike73@gmail.com)
+* <img src="https://api.iconify.design/simple-icons:github.svg?color=%2358a6ff" width="18" height="18" align="center"> **GitHub:** [@Innocentjp](https://github.com/Innocentjp)
+* <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2358a6ff" width="18" height="18" align="center"> **LinkedIn:** [Innocent Ebisike](https://www.linkedin.com/in/innocent-ebisike)
+* <img src="https://api.iconify.design/simple-icons:x.svg?color=%2358a6ff" width="18" height="18" align="center"> **Twitter (X):** [@EbisikeInnocent](https://twitter.com/EbisikeInnocent)
+* <img src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%2358a6ff" width="18" height="18" align="center"> **WhatsApp:** [Message Me](https://wa.me/2349082682461)
