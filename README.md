@@ -38,8 +38,8 @@ This repository contains the source code for my personal portfolio website. It s
 
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%2358a6ff" width="22" height="22" align="center"> Contact
 
-* <img src="https://api.iconify.design/lucide:mail.svg?color=%2358a6ff" width="18" height="18" align="center"> **Email:** [innocentebisike73@gmail.com](mailto:innocentebisike73@gmail.com)
-* <img src="https://api.iconify.design/simple-icons:github.svg?color=%2358a6ff" width="18" height="18" align="center"> **GitHub:** [@Innocentjp](https://github.com/Innocentjp)
-* <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2358a6ff" width="18" height="18" align="center"> **LinkedIn:** [Innocent Ebisike](https://www.linkedin.com/in/innocent-ebisike)
-* <img src="https://api.iconify.design/simple-icons:x.svg?color=%2358a6ff" width="18" height="18" align="center"> **Twitter (X):** [@EbisikeInnocent](https://twitter.com/EbisikeInnocent)
-* <img src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%2358a6ff" width="18" height="18" align="center"> **WhatsApp:** [Message Me](https://wa.me/2349082682461)
+* <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335" width="18" height="18" align="center"> **Email:** [innocentebisike73@gmail.com](mailto:innocentebisike73@gmail.com)
+* <img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" width="18" height="18" align="center"> **GitHub:** [@Innocentjp](https://github.com/Innocentjp)
+* <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="18" height="18" align="center"> **LinkedIn:** [Innocent Ebisike](https://www.linkedin.com/in/innocent-ebisike)
+* <img src="https://api.iconify.design/simple-icons:x.svg?color=%23000000" width="18" height="18" align="center"> **Twitter (X):** [@EbisikeInnocent](https://twitter.com/EbisikeInnocent)
+* <img src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%2325D366" width="18" height="18" align="center"> **WhatsApp:** [Message Me](https://wa.me/2349082682461)
