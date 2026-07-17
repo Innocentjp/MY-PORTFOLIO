@@ -37,7 +37,6 @@ This repository contains the source code for my personal portfolio website. It s
 * **[Physiology Academic Quiz](https://physiology-quiz.netlify.app/):** An interactive educational platform tailored for medical rehabilitation students to rigorously test their knowledge of vital signs and exercise physiology. *(Built with: JavaScript, HTML5, CSS3)*
 
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%2358a6ff" width="22" height="22" align="center"> 
-
 Contact
 
 * <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335" width="18" height="18" align="center"> **Email:** [innocentebisike73@gmail.com](mailto:innocentebisike73@gmail.com)
