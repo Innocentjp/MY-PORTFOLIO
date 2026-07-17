@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Ignore CSS in GitHub language statistics
+*.css linguist-detectable=false
