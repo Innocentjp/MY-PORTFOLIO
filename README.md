@@ -1,4 +1,5 @@
-*-----HEADER-----*
+<img src="./img/og.jpg" alt="Portfolio Banner" width="100%">
+
 # <img src="https://unpkg.com/lucide-static@latest/icons/folder-git-2.svg" width="28" height="28" align="top"> Innocent Ebisike - Personal Portfolio
 
 A creative portfolio showcasing my multidisciplinary work as a Frontend Developer and UI/UX Designer, bridging the gap between Web2 and Web3.
