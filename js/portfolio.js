@@ -66,6 +66,13 @@ const myProjects = [
         customImage: "./img/ewaw-hero.png"
     },
     {
+        url: "https://rural-care.netlify.app",
+        title: "RuralCare Pro · Offline-First Clinical Management & AI Triage System",
+        techStack: "HTML5, Tailwind CSS, JavaScript, PWA, Chart.js, Web Speech API",
+        description: "An enterprise-grade Progressive Web Application (PWA) built to eliminate clinical data entry bottlenecks in hospitals with unstable network connectivity. The platform features an offline-first architecture with background sync capabilities, an AI-powered Clinical Insight Engine that flags critical health trends, native voice-to-text dictation for rapid clinical note-taking, and interactive data visualization for tracking patient vitals.",
+        customImage: "./img/ruralcare-hero.png"
+    },
+    {
         url: "https://cppaccreditation.co.uk/",
         title: "CPP Accreditation Portal",
         techStack: "HTML5, CSS3, JavaScript",
@@ -93,13 +100,6 @@ const myProjects = [
         techStack: "HTML5, CSS3, JavaScript",
         description: "An executive digital portfolio designed for the founder of the International Academy for Project Management & Development (IAPM&D), showcasing their leadership, professional milestones, and industry expertise.",
         customImage: "./img/iapmd-hero.png"
-    },
-    {
-        url: "https://rural-care.netlify.app",
-        title: "RuralCare Pro · Offline-First Clinical Management & AI Triage System",
-        techStack: "HTML5, Tailwind CSS, JavaScript, PWA, Chart.js, Web Speech API",
-        description: "An enterprise-grade Progressive Web Application (PWA) built to eliminate clinical data entry bottlenecks in hospitals with unstable network connectivity. The platform features an offline-first architecture with background sync capabilities, an AI-powered Clinical Insight Engine that flags critical health trends, native voice-to-text dictation for rapid clinical note-taking, and interactive data visualization for tracking patient vitals.",
-        customImage: "./img/ruralcare-hero.png"
     },
     {
         url: "https://plane-game-by-innocentjp.netlify.app/",
