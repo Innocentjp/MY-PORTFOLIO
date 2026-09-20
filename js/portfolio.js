@@ -95,11 +95,11 @@ const myProjects = [
         customImage: "./img/iapmd-hero.png"
     },
     {
-        url: "https://el-profile.netlify.app/",
-        title: "EL Profile / Digital Resume",
-        techStack: "React.js, CSS3",
-        description: "A sleek, interactive digital profile and resume application designed to beautifully showcase professional milestones and creative design portfolios.",
-        customImage: "./img/el-profile-hero.png"
+        url: "https://rural-care.netlify.app",
+        title: "RuralCare Pro · Offline-First Clinical Management & AI Triage System",
+        techStack: "HTML5, Tailwind CSS, JavaScript, PWA, Chart.js, Web Speech API",
+        description: "An enterprise-grade Progressive Web Application (PWA) built to eliminate clinical data entry bottlenecks in hospitals with unstable network connectivity. The platform features an offline-first architecture with background sync capabilities, an AI-powered Clinical Insight Engine that flags critical health trends, native voice-to-text dictation for rapid clinical note-taking, and interactive data visualization for tracking patient vitals.",
+        customImage: "./img/ruralcare-hero.png"
     },
     {
         url: "https://plane-game-by-innocentjp.netlify.app/",
