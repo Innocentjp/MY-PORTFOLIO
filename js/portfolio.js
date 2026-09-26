@@ -95,7 +95,7 @@ const myProjects = [
         customImage: "./img/physio-site-hero.png"
     },
     {
-        url: "https://dr-ayodele-portfolio.netlify.app/",
+        url: "https://portfolio.ayoedwards.com/",
         title: "IAPM&D · International Academy for Project Management & Development",
         techStack: "HTML5, CSS3, JavaScript",
         description: "An executive digital portfolio designed for the founder of the International Academy for Project Management & Development (IAPM&D), showcasing their leadership, professional milestones, and industry expertise.",
