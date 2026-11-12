@@ -110,7 +110,7 @@ const myProjects = [
     },
     {
         url: "https://snake-game-by-innocentjp.netlify.app/",
-        title: "Retro Snake Clone",
+        title: "Retro Snake Game",
         techStack: "Phaser.js, HTML5 Canvas, JavaScript",
         description: "A responsive web-based recreation of the classic Snake game, emphasizing core programming logic, array manipulation, and mobile responsiveness.",
         customImage: "./img/snake-hero.png"
